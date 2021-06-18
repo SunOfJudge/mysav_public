@@ -1,0 +1,4 @@
+comtypes==1.1.7
+scapy==2.4.4
+pywifi==1.1.12
+pymysql==1.0.2
